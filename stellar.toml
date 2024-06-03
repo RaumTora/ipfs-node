@@ -1,0 +1,23 @@
+# Project RaumFi <raum.network>
+VERSION="2.2.0"
+NETWORK_PASSPHRASE = "Test SDF Network ; September 2015"
+
+[DOCUMENTATION]
+ORG_NAME="Raum.network"
+ORG_DBA="RN token"
+ORG_URL="https://raum.network/"
+ORG_LOGO = "https://raw.githubusercontent.com/Raum-Network/RN_Bridge_UI/main/public/raum-logo640-640-round-1%402x.png"
+ORG_OFFICIAL_EMAIL="comms@aqua.network"
+ORG_SUPPORT_EMAIL="comms@aqua.network"
+ORG_TWITTER="raumnetwork"
+ORG_DESCRIPTION="Experience the power of true ownership and financial freedom with our innovative solutions."
+
+[[CURRENCIES]]
+code = "RN"
+name = "RaumNetwork"
+issuer = "GCOOLUTOR3UJSWU3AL5OBA26G3547KPMBLTIER3K52BZ4LTLMOT5SCLH"
+is_asset_anchored = false
+display_decimals = 18
+desc="The Official Asset for RaumFi Dex and Raum Network"
+image="https://raw.githubusercontent.com/Raum-Network/RN_Bridge_UI/main/public/raum-logo640-640-round-1%402x.png"
+
